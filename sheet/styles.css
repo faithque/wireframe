@@ -1,0 +1,65 @@
+.box {
+  background-color: lightgray;
+  padding-top: 50px;
+  border: 5px solid black;
+  padding-bottom: 20px;
+  padding-left: 50px;
+  width: 800px;
+  display: block;
+  margin: 0 auto;
+}
+h1 {
+  margin-bottom: 50px;
+  text-align: center;
+}
+.search {
+  padding-right: 50px;
+  margin-right: 70px;
+  padding-left: 50px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+.go {
+  padding-right: 10px;
+  padding-left: 10px;
+  border-radius: 10px;
+}
+.Nairobi {
+  padding-left: 20px;
+  padding-right: 70px;
+  border-radius: 10px;
+}
+.temperature {
+  padding: 30px 10px 30px 10px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+.btn-secondary {
+  margin-right: 40px;
+}
+.btn-outline-primary {
+  border-radius: 30%;
+  padding: 20px;
+  margin-top: 10px;
+}
+.one {
+  margin-left: -10px;
+}
+.two {
+  margin-left: 30px;
+}
+.three {
+  margin-left: 30px;
+}
+.four {
+  margin-left: 50px;
+}
+.five {
+  margin-left: 20px;
+}
+.faith {
+  text-align: center;
+  text-decoration: underline;
+  color: orangered;
+  margin-top: 10px;
+}
